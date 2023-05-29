@@ -110,3 +110,4 @@ home-credit-default-risk.zip
 # models
 *.mod
 *.bz2
+*.jupyterlab-workspace
